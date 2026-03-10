@@ -203,11 +203,11 @@ claude mcp add hwpx-mcp node /path/to/hwpx-mcp/mcp-server/dist/index.js
 
 ### 3. 설치 확인
 
-클라이언트 재시작 후 MCP 도구 목록에서 `hwpx-mcp` 서버와 77개 도구가 표시되면 성공!
+클라이언트 재시작 후 MCP 도구 목록에서 `hwpx-mcp` 서버와 75개 도구가 표시되면 성공!
 
 ---
 
-## 🔌 MCP Tools (77개)
+## 🔌 MCP Tools (75개)
 
 ### 📁 문서 관리 (Document Management) - 5개
 
