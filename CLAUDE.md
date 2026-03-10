@@ -75,7 +75,7 @@ src/
 
 ### 2. MCP Server (mcp-server/)
 
-Standalone Model Context Protocol server for AI integration. Provides 77+ tools for document operations.
+Standalone Model Context Protocol server for AI integration. Provides 75 tools for document operations.
 
 ```
 mcp-server/src/
